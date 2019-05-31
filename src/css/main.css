@@ -1,0 +1,27 @@
+.photo {
+  max-height: 530px;
+  object-fit: contain;
+}
+
+/* .Photo {
+  height: 500px;
+  margin-bottom: 20px;
+}
+
+.button {
+  margin-left: 20px;
+}
+
+.playButtons {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+*/
+.sound-wave {
+  max-width: 500px;
+}
+/* 
+.recordButton {
+  font-size: 60px;
+  border: 1px solid red;
+} */
