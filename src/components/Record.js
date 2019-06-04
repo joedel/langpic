@@ -1,5 +1,5 @@
-import { ReactMic } from 'react-mic'
 import React, { Component } from 'react'
+import { ReactMic } from 'react-mic'
 import RecordingCard from './RecordingCard.js'
 
 class Record extends Component {
